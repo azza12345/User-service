@@ -1,0 +1,11 @@
+com\BudgetTracking\UserService\Model\AuthenticationResponse.class
+com\BudgetTracking\UserService\Service\UserDetailsServiceImp.class
+com\BudgetTracking\UserService\Controller\AuthenticationController.class
+com\BudgetTracking\UserService\Service\JwtService.class
+com\BudgetTracking\UserService\UserServiceApplication.class
+com\BudgetTracking\UserService\Model\Role.class
+com\BudgetTracking\UserService\Service\AuthenticationService.class
+com\BudgetTracking\UserService\Model\User.class
+com\BudgetTracking\UserService\Config\SecurityConfig.class
+com\BudgetTracking\UserService\filter\JwtAuthenticationFilter.class
+com\BudgetTracking\UserService\repository\UserRepository.class
